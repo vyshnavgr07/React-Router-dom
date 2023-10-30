@@ -1,0 +1,21 @@
+.regis{
+    background-color: gray;
+    height: 100vh;
+    }
+    .regis input{
+        height: 40px;
+        width: 500px;
+        padding: 10px;
+        color: black;
+        font-weight: bolder;
+        }
+
+        .regis button{
+            width: 80px;
+            height: 40px;
+            border-radius:20px;
+            margin: 50px;
+            background-color: rgb(234, 14, 14);
+            font-weight: bolder;
+            
+        }
